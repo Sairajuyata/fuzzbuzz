@@ -1,0 +1,19 @@
+{
+  "name": "fuzzbuzz",
+  "version": "1.0.0",
+  "description": "it is Check Number app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sairajuyata/fuzzbuzz.git"
+  },
+  "author": "Sai Raju",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sairajuyata/fuzzbuzz/issues"
+  },
+  "homepage": "https://github.com/Sairajuyata/fuzzbuzz#readme"
+}
